@@ -41,4 +41,4 @@ The original author, H.Hiro(Maraigue), distributes the library under "new BSD Li
 
 Original author: H.Hiro(Maraigue) (e-mail: main at hhiro.net, website: http://hhiro.net/)
 
-To request new features and/or bug fixes, contact the e-mail address or send a pull request via GitHub (https://github.com/maraigue/twbot2.rb/).
+To request new features and/or bug fixes, contact the e-mail address or send a pull request via GitHub (https://github.com/maraigue/twbot3.rb/).
